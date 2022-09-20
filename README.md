@@ -1,12 +1,10 @@
 # $\textcolor{blue}{\text{CitiBike Trip Analysis}}$ 
 
-![image](https://your-image-url.type) with <img src="https://your-image-url.type" width="100" height="100">
 
-![top starting locations](https://user-images.githubusercontent.com/107505166/191382719-f842b7f1-0274-4e24-a322-1598a4108065.PNG)
+<img src="https://user-images.githubusercontent.com/107505166/191382719-f842b7f1-0274-4e24-a322-1598a4108065.PNG" width="400" height="400">
 
-![image](https://your-image-url.type) with <img src="https://user-images.githubusercontent.com/107505166/191382719-f842b7f1-0274-4e24-a322-1598a4108065.PNG" width="300" height="300">
+ <img src="https://user-images.githubusercontent.com/107505166/191382951-86735e45-e111-4fd3-867e-a819b7894379.jpeg" width="600" height="400">
 
-![sighting](https://user-images.githubusercontent.com/107505166/188699439-fd408353-dc08-4297-8fd9-940d427557c6.png)
 
 ## Overview of the Project:
 My colleague, Dana, has created a UFO Sightings website that allows users to view a table of UFO sightings and filter them by date.   At her request I’ve added additional search functionality so that users can also filter the sightings by city, state, country and shape.  Now the users can even more easily search for and display just the sightings that they’re most interested in.   
