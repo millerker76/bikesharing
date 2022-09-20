@@ -1,13 +1,13 @@
+
 # $\textcolor{blue}{\text{CitiBike Trip Analysis}}$ 
 
 
-<img src="https://user-images.githubusercontent.com/107505166/191382719-f842b7f1-0274-4e24-a322-1598a4108065.PNG" width="400" height="400">  <img src="https://user-images.githubusercontent.com/107505166/191382951-86735e45-e111-4fd3-867e-a819b7894379.jpeg" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/107505166/191382719-f842b7f1-0274-4e24-a322-1598a4108065.PNG" width="400" height="400"> 
+
 
 
 ## Overview of the Project:
-My colleague, Dana, has created a UFO Sightings website that allows users to view a table of UFO sightings and filter them by date.   At her request I’ve added additional search functionality so that users can also filter the sightings by city, state, country and shape.  Now the users can even more easily search for and display just the sightings that they’re most interested in.   
-![UFOs1](https://user-images.githubusercontent.com/107505166/188700934-50ea85b3-2e41-4285-a673-be4ac880ec63.PNG)
-
+The purpose of this project, using a large data set from the highly successful New York City CitiBike bike sharing program, is to analyze trip data and extract any useful insights for a client who is investigating starting a bike sharing program in Des Moines, Iowa.  
 ## Try out the multi-criteria search filter
 <b> Follow these steps to practice using the search filters:</b> 
 
