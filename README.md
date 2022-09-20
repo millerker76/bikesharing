@@ -1,9 +1,7 @@
 # $\textcolor{blue}{\text{CitiBike Trip Analysis}}$ 
 
 
-<img src="https://user-images.githubusercontent.com/107505166/191382719-f842b7f1-0274-4e24-a322-1598a4108065.PNG" width="400" height="400">
-
- <img src="https://user-images.githubusercontent.com/107505166/191382951-86735e45-e111-4fd3-867e-a819b7894379.jpeg" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/107505166/191382719-f842b7f1-0274-4e24-a322-1598a4108065.PNG" width="400" height="400">  <img src="https://user-images.githubusercontent.com/107505166/191382951-86735e45-e111-4fd3-867e-a819b7894379.jpeg" width="600" height="400">
 
 
 ## Overview of the Project:
