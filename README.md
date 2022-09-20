@@ -1,5 +1,10 @@
 # $\textcolor{blue}{\text{CitiBike Trip Analysis}}$ 
 
+![image](https://your-image-url.type) with <img src="https://your-image-url.type" width="100" height="100">
+
+![top starting locations](https://user-images.githubusercontent.com/107505166/191382719-f842b7f1-0274-4e24-a322-1598a4108065.PNG)
+
+![image](https://your-image-url.type) with <img src="https://user-images.githubusercontent.com/107505166/191382719-f842b7f1-0274-4e24-a322-1598a4108065.PNG" width="300" height="300">
 
 ![sighting](https://user-images.githubusercontent.com/107505166/188699439-fd408353-dc08-4297-8fd9-940d427557c6.png)
 
