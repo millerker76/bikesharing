@@ -1,5 +1,5 @@
 
-# $\textcolor{blue}{\text{CitiBike Trip Analysis}}$ 
+# $\textcolor{blue}{\text{NYC CitiBike Bike Sharing Trip Analysis}}$ 
 
 
 <img src="https://user-images.githubusercontent.com/107505166/191382719-f842b7f1-0274-4e24-a322-1598a4108065.PNG" width="400" height="400"> 
