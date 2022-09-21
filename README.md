@@ -10,12 +10,12 @@ All the visualizations for this project can be seen on Tableau Public:   https:/
 ## Insights about CitiBike trips.    
 <b> 1. Trip duration:</b>   
 ###      $\textcolor{blue}{\text{Short trips}}$  
-For all users, regardless of gender, customers are using CitiBikes for bike trips  $\textcolor{blue}{\text {under 20 miutes}}$ 
+This visualization plots unique bike trips by the length of time the bike was checked out and by gender.   For all users, regardless of gender, customers are using CitiBikes for bike trips  $\textcolor{blue}{\text {under 20 miutes}}$  
 ![Trip duration](https://user-images.githubusercontent.com/107505166/191400549-50eff202-70f6-401e-a6a5-48a37c65ccac.PNG)
 
 <b> 2. Gender as a factor in usage: </b> 
 ### $\textcolor{blue}{\text{More bike usage by males}}$  
-Male users account for nearly $\textcolor{blue}{\text {two-thirds}}$  of all trips.  
+In this visualization, unique bike trips are charted by the gender of the user.  Male users account for nearly $\textcolor{blue}{\text {two-thirds}}$  of all trips.  
 
 <img src="https://user-images.githubusercontent.com/107505166/191404225-40fefa48-899b-43c0-b6b5-a5bfe86e23fa.PNG" width="600" height="300">
 
@@ -23,7 +23,7 @@ Male users account for nearly $\textcolor{blue}{\text {two-thirds}}$  of all tri
 <b>   </b> 
 <b> 3. Usage trends per time of day and day of the week: </b> 
 ### $\textcolor{blue}{\text{Peak usage is during typical commuting hours and on weekends}}$  
-Usage on Wednesday afternoons need further exploration!  
+This heat map visualization shows areas of concentrated bike usage by hour of day and day of week.  We can see that usage is generally heaviest during weekday morning and late afternoon hours in a pattern that correlates with typical commuter patterns, with the second heaviest concentration on weekends.   Usage on Wednesday afternoons need further exploration!  
 
 ![Heat map2](https://user-images.githubusercontent.com/107505166/191406526-73bdd1ec-aefe-4864-bc54-fa47a917ca1a.PNG)
 
