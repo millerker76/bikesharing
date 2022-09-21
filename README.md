@@ -1,13 +1,12 @@
 
-# $\textcolor{blue}{\text{NYC CitiBike Bike Sharing Trip Analysis}}$ 
-
+# $\textcolor{blue}{\text{NYC CitiBike - Trip Analysis}}$   <img src="https://user-images.githubusercontent.com/107505166/191397468-04815154-11ff-46c0-8030-cc5eff50b154.png" width = "280" height = "140" > 
 
 <img src="https://user-images.githubusercontent.com/107505166/191382719-f842b7f1-0274-4e24-a322-1598a4108065.PNG" width="400" height="400"> 
 
 
 
 ## Overview of the Project:
-The purpose of this project, using a large data set from the highly successful New York City CitiBike bike sharing program, is to analyze trip data and extract any useful insights for a client who is investigating starting a bike sharing program in Des Moines, Iowa.  
+The purpose of this project, using a large data set from the successful 10-year old New York City CitiBike bike sharing program, is to analyze CitiBike trip data and extract useful insights for a client who is exploring starting a bike sharing program in Des Moines, Iowa.  
 ## Try out the multi-criteria search filter
 <b> Follow these steps to practice using the search filters:</b> 
 
