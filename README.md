@@ -44,10 +44,10 @@ This heat map showing the distribution of unique bike ride by time of day, hour 
 <img src="https://user-images.githubusercontent.com/107505166/191627942-337721c6-1d3c-431d-bbdd-c152967cd601.png" width="600" height="300">
 
 
-#### Summary of findings 
-* There are multiple input boxes to allow entering multiple filter criteria, but there is no "clear filter" button, so it's a little awkward to have to manually clear the text entered when ready to enter new filter criteria.
-* I've added boilerplate text next to the input boxes to instruct users on how to enter the text data (it needs to be in lower case for the filter to "find" it), but this isn't very elegant.  It would be best to update the javascript filter to be case-insensitive.
-* It could be very frustrating to search for the shape filter without knowing which shapes have been stored in the data set.   It would be helpful for the "shape" input filter box to be a drop-down box populated with all the available shapes.
+#### Summary of findings and Recommendations for further analysis
+* Analysis of NY CitiBike trip data shows heavy usage of the bike share program, and an expected distribution of bike usage that is heavier during typical commuting times and on the weekends.
+* It also shows that the trips taken are quite short - substantially under twenty minutes.  
+* Analyses of success factors for bikesharing programs show that the extent of existing bike infrastructure (bike lanes and other infrastructure), availability of transit systems for bike-to-transit links, moderate weather and moderate terrain are important factors in program success.  
  
 $\textcolor{blue}{\text{ (Recommended for Further Analysis)}}$ 
 | -----------------------------------------------------------------------------|                                            
