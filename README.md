@@ -40,7 +40,7 @@ This chart showing unique CitiBike trips by gender of the customer shows that ov
 
 <img src="https://user-images.githubusercontent.com/107505166/191409125-92c87bd0-6859-48e3-accf-8d6e9d066ef7.PNG" width="600" height="300">
 <p>&nbsp;</p>
-This heat map showing the distribution of unique bike ride by time of day, hour of day, subscriber status and gender, graphically demonstrates that $\textcolor{blue}{\text{male subscribers}}$ are the heaviest users of CitiBikes and take the most trips.
+This heat map showing the distribution of unique bike ride by time of day, hour of day, subscriber status and gender, graphically demonstrates that $\textcolor{blue}{\text{male subscribers}}$ are the $\textcolor{blue}{\text{heaviest users}}$ of CitiBikes and take the most trips.
 <img src="https://user-images.githubusercontent.com/107505166/191627942-337721c6-1d3c-431d-bbdd-c152967cd601.png" width="600" height="300">
 
 
