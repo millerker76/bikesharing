@@ -1,16 +1,16 @@
 
-# $\textcolor{blue}{\text{NYC CitiBike - Trip Analysis}}$   <img src="https://user-images.githubusercontent.com/107505166/191397468-04815154-11ff-46c0-8030-cc5eff50b154.png" width = "280" height = "140" > 
-
+# $\textcolor{blue}{\text{NYC CitiBike - Trip Analysis}}$  
 <img src="https://user-images.githubusercontent.com/107505166/191382719-f842b7f1-0274-4e24-a322-1598a4108065.PNG" width="400" height="400"> 
 
-
-
 ## Overview of the Project:
-The purpose of this project, using a large data set from the successful 10-year old New York City CitiBike bike sharing program, is to analyze CitiBike trip data and extract useful insights for a client who is exploring starting a bike sharing program in Des Moines, Iowa.  
-## Try out the multi-criteria search filter
-<b> Follow these steps to practice using the search filters:</b> 
+The purpose of this project, using a large data set from the successful 10-year old New York City CitiBike bike sharing program, is to analyze CitiBike trip data and extract useful insights for a client who is exploring starting a bike sharing program in Des Moines, Iowa. 
 
-1.  Enter a state (try <b> ca </b> for California as in the example below) and notice that the table to the right is now filtered to only display sightings in California.  $\textcolor{blue}{\text{ (figure a)}}$ 
+## Insights about CitiBike trips.    
+<b> 1. Trip duration:</b> 
+
+### $\textcolor{blue}{\text{Short trips}}$  
+
+1.  Trips are short! <b> ca </b> for California as in the example below) and notice that the table to the right is now filtered to only display sightings in California.  $\textcolor{blue}{\text{ (figure a)}}$ 
 2.  Experiment with further filtering the results by entering <b> el cajon  </b>  to show only results for El Cajon, California.   $\textcolor{blue}{\text{ (figure b)}}$ 
 3.  You can continue to further filter results by date, shape, etc. or start over with new criteria. 
 
