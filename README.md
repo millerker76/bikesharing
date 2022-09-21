@@ -35,12 +35,12 @@ Over $\textcolor{blue}{\text {Eighty percent}}$ of CitiBike trips are taken by s
 
 <img src="https://user-images.githubusercontent.com/107505166/191409125-92c87bd0-6859-48e3-accf-8d6e9d066ef7.PNG" width="600" height="300">
 
-#### Drawbacks of the new design
+#### Summary of findings 
 * There are multiple input boxes to allow entering multiple filter criteria, but there is no "clear filter" button, so it's a little awkward to have to manually clear the text entered when ready to enter new filter criteria.
 * I've added boilerplate text next to the input boxes to instruct users on how to enter the text data (it needs to be in lower case for the filter to "find" it), but this isn't very elegant.  It would be best to update the javascript filter to be case-insensitive.
 * It could be very frustrating to search for the shape filter without knowing which shapes have been stored in the data set.   It would be helpful for the "shape" input filter box to be a drop-down box populated with all the available shapes.
  
-$\textcolor{blue}{\text{ (Recommended for Future Development)}}$ 
+$\textcolor{blue}{\text{ (Recommended for Further Analysis)}}$ 
 | -----------------------------------------------------------------------------|                                            
 | Add clear filter button                                                      |
 | Update javascript filter function to be case-insensitive                     | 
