@@ -17,9 +17,11 @@ Males constitute nearly $\textcolor{blue}{\text {two-thirds}}$  of all customers
 
 <img src="https://user-images.githubusercontent.com/107505166/191404225-40fefa48-899b-43c0-b6b5-a5bfe86e23fa.PNG" width="600" height="300">
 
-
+<b>   </b>  
+<b>   </b> 
 <b> 3. Usage trends per time of day and day of the week </b> 
 ### $\textcolor{blue}{\text{Peak usage is during typical commuting hours and on weekends}}$  
+Usage on Wednesday afternoons need further exploration!  
 
 ![Heat map2](https://user-images.githubusercontent.com/107505166/191406526-73bdd1ec-aefe-4864-bc54-fa47a917ca1a.PNG)
 
