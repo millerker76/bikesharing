@@ -10,10 +10,10 @@ All the visualizations for this project can be seen on Tableau Public:   https:/
 ## Insights about CitiBike trips.    
 <b> 1. Trip duration:</b>   
 ###      $\textcolor{blue}{\text{Short trips}}$  
-This visualization plots unique bike trips by the length of time the bike was checked out.  We can see that customers are using CitiBikes for bike trips  $\textcolor{blue}{\text {under 20 minutes}}$ 
+This visualization plots unique bike trips by the length of time the bike was checked out.  We can see that customers are overwhelmingly using CitiBikes for bike trips  $\textcolor{blue}{\text {under 20 minutes}}$ 
 ![Trip Duration all users](https://user-images.githubusercontent.com/107505166/191627672-d0829bd3-eb2b-41a9-8095-eb663108df86.PNG)
 
-This visualization plots unique bike trips by the length of time the bike was checked out $\textcolor{blue}{\text {and by gender. }}$   For all users, regardless of gender, customers are using CitiBikes for bike trips  $\textcolor{blue}{\text {under 20 miutes}}$  
+This visualization plots unique bike trips by the length of time the bike was checked out $\textcolor{blue}{\text {and by gender. }}$   For all users, regardless of gender, customers are using CitiBikes for bike trips  $\textcolor{blue}{\text {under 20 minutes}}$  
 ![Trip duration](https://user-images.githubusercontent.com/107505166/191400549-50eff202-70f6-401e-a6a5-48a37c65ccac.PNG)
 
 
@@ -38,6 +38,10 @@ This heat map visualization shows areas of concentrated bike usage by hour of da
 Over $\textcolor{blue}{\text {Eighty percent}}$ of CitiBike trips are taken by subscribers
 
 <img src="https://user-images.githubusercontent.com/107505166/191409125-92c87bd0-6859-48e3-accf-8d6e9d066ef7.PNG" width="600" height="300">
+
+This heat map showing the distribution of unique bike ride by time of day, hour of day, subscriber status and gender, graphically demonstrates that male subscribers are the heaviest users of CitiBikes and take the most trips.
+![image](https://user-images.githubusercontent.com/107505166/191627942-337721c6-1d3c-431d-bbdd-c152967cd601.png)
+
 
 #### Summary of findings 
 * There are multiple input boxes to allow entering multiple filter criteria, but there is no "clear filter" button, so it's a little awkward to have to manually clear the text entered when ready to enter new filter criteria.
