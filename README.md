@@ -10,10 +10,14 @@ All the visualizations for this project can be seen on Tableau Public:   https:/
 ## Insights about CitiBike trips.    
 <b> 1. Trip duration:</b>   
 ###      $\textcolor{blue}{\text{Short trips}}$  
-This visualization plots unique bike trips by the length of time the bike was checked out and by gender.   For all users, regardless of gender, customers are using CitiBikes for bike trips  $\textcolor{blue}{\text {under 20 miutes}}$  
+This visualization plots unique bike trips by the length of time the bike was checked out.  We can see that customers are using CitiBikes for bike trips  $\textcolor{blue}{\text {under 20 minutes}}$ 
+![Trip Duration all users](https://user-images.githubusercontent.com/107505166/191627672-d0829bd3-eb2b-41a9-8095-eb663108df86.PNG)
+
+This visualization plots unique bike trips by the length of time the bike was checked out $\textcolor{blue}{\text {and by gender. }}$   For all users, regardless of gender, customers are using CitiBikes for bike trips  $\textcolor{blue}{\text {under 20 miutes}}$  
 ![Trip duration](https://user-images.githubusercontent.com/107505166/191400549-50eff202-70f6-401e-a6a5-48a37c65ccac.PNG)
 
-<b> 2. Gender as a factor in usage: </b> 
+
+<b> 2. Usage by gender: </b>   
 ### $\textcolor{blue}{\text{More bike usage by males}}$  
 In this visualization, unique bike trips are charted by the gender of the user.  Male users account for nearly $\textcolor{blue}{\text {two-thirds}}$  of all trips.  
 
