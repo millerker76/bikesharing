@@ -14,8 +14,8 @@ For all users, regardless of gender, customers are using CitiBikes for bike trip
 ![Trip duration](https://user-images.githubusercontent.com/107505166/191400549-50eff202-70f6-401e-a6a5-48a37c65ccac.PNG)
 
 <b> 2. Gender as a factor in usage: </b> 
-### $\textcolor{blue}{\text{More male customers}}$  
-Males constitute nearly $\textcolor{blue}{\text {two-thirds}}$  of all customers.  
+### $\textcolor{blue}{\text{More bike usage by males}}$  
+Male users account for nearly $\textcolor{blue}{\text {two-thirds}}$  of all trips.  
 
 <img src="https://user-images.githubusercontent.com/107505166/191404225-40fefa48-899b-43c0-b6b5-a5bfe86e23fa.PNG" width="600" height="300">
 
