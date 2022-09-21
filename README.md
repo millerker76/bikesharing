@@ -3,7 +3,9 @@
 <img src="https://user-images.githubusercontent.com/107505166/191382719-f842b7f1-0274-4e24-a322-1598a4108065.PNG" width="400" height="400"> 
 
 ## Overview of the Project:
-The purpose of this project, using a large data set from the successful 10-year old New York City CitiBike bike sharing program, is to analyze CitiBike trip data and extract useful insights for a client who is exploring starting a bike sharing program in Des Moines, Iowa. 
+The purpose of this project, using a large data set from the successful 10-year old New York City CitiBike bike sharing program, is to analyze CitiBike trip data and extract useful insights for a client who is exploring starting a bike sharing program in Des Moines, Iowa.   
+
+All the visualizations for this project can be seen on Tableau Public:   https://public.tableau.com/views/NYCitiBikeTripAnalysis/NYCitibikeTripAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link  
 
 ## Insights about CitiBike trips.    
 <b> 1. Trip duration:</b>   
@@ -11,7 +13,7 @@ The purpose of this project, using a large data set from the successful 10-year 
 For all users, regardless of gender, customers are using CitiBikes for bike trips  $\textcolor{blue}{\text {under 20 miutes}}$ 
 ![Trip duration](https://user-images.githubusercontent.com/107505166/191400549-50eff202-70f6-401e-a6a5-48a37c65ccac.PNG)
 
-<b> 2. Gender as a factor in usage </b> 
+<b> 2. Gender as a factor in usage: </b> 
 ### $\textcolor{blue}{\text{More male customers}}$  
 Males constitute nearly $\textcolor{blue}{\text {two-thirds}}$  of all customers.  
 
@@ -19,15 +21,17 @@ Males constitute nearly $\textcolor{blue}{\text {two-thirds}}$  of all customers
 
 <b>   </b>  
 <b>   </b> 
-<b> 3. Usage trends per time of day and day of the week </b> 
+<b> 3. Usage trends per time of day and day of the week: </b> 
 ### $\textcolor{blue}{\text{Peak usage is during typical commuting hours and on weekends}}$  
 Usage on Wednesday afternoons need further exploration!  
 
 ![Heat map2](https://user-images.githubusercontent.com/107505166/191406526-73bdd1ec-aefe-4864-bc54-fa47a917ca1a.PNG)
 
-![Heatmap1](https://user-images.githubusercontent.com/107505166/191405865-614be008-fcb4-4469-81f6-4be929f76fb2.PNG)
-
-## Summary
+<b>   </b>  
+<b>   </b> 
+<b> 4. Customer type as factor in usage </b> 
+### $\textcolor{blue}{\text{Subscribers vs non-subscribers}}$  
+$\textcolor{blue}{\text {Eighty percent}}$ of CitiBike trips are taken by subscribers
 
 #### Drawbacks of the new design
 * There are multiple input boxes to allow entering multiple filter criteria, but there is no "clear filter" button, so it's a little awkward to have to manually clear the text entered when ready to enter new filter criteria.
