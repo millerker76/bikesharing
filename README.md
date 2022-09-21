@@ -30,8 +30,10 @@ Usage on Wednesday afternoons need further exploration!
 <b>   </b>  
 <b>   </b> 
 <b> 4. Customer type as factor in usage </b> 
-### $\textcolor{blue}{\text{Subscribers vs non-subscribers}}$  
-$\textcolor{blue}{\text {Eighty percent}}$ of CitiBike trips are taken by subscribers
+### $\textcolor{blue}{\text{Subscribers rule!}}$  
+Over $\textcolor{blue}{\text {Eighty percent}}$ of CitiBike trips are taken by subscribers
+
+<img src="https://user-images.githubusercontent.com/107505166/191409125-92c87bd0-6859-48e3-accf-8d6e9d066ef7.PNG" width="600" height="300">
 
 #### Drawbacks of the new design
 * There are multiple input boxes to allow entering multiple filter criteria, but there is no "clear filter" button, so it's a little awkward to have to manually clear the text entered when ready to enter new filter criteria.
