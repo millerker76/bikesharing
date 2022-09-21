@@ -35,12 +35,13 @@ This heat map visualization shows areas of concentrated bike usage by hour of da
 <b>   </b> 
 <b> 4. Customer type as factor in usage </b> 
 ### $\textcolor{blue}{\text{Subscribers rule!}}$  
-Over $\textcolor{blue}{\text {Eighty percent}}$ of CitiBike trips are taken by subscribers
+This chart showing unique CitiBike trips by gender of the customer shows that over $\textcolor{blue}{\text {eighty percent}}$ of CitiBike trips are taken by subscribers versus non-subscribing customers.
+
 
 <img src="https://user-images.githubusercontent.com/107505166/191409125-92c87bd0-6859-48e3-accf-8d6e9d066ef7.PNG" width="600" height="300">
-
-This heat map showing the distribution of unique bike ride by time of day, hour of day, subscriber status and gender, graphically demonstrates that male subscribers are the heaviest users of CitiBikes and take the most trips.
-![image](https://user-images.githubusercontent.com/107505166/191627942-337721c6-1d3c-431d-bbdd-c152967cd601.png)
+<p>&nbsp;</p>
+This heat map showing the distribution of unique bike ride by time of day, hour of day, subscriber status and gender, graphically demonstrates that $\textcolor{blue}{\text{male subscribers}}$ are the heaviest users of CitiBikes and take the most trips.
+<img src="https://user-images.githubusercontent.com/107505166/191627942-337721c6-1d3c-431d-bbdd-c152967cd601.png" width="600" height="300">
 
 
 #### Summary of findings 
