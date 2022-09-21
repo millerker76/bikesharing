@@ -7,17 +7,19 @@ The purpose of this project, using a large data set from the successful 10-year 
 
 ## Insights about CitiBike trips.    
 <b> 1. Trip duration:</b>   
-### $\textcolor{blue}{\text{Short trips}}$  
+###      $\textcolor{blue}{\text{Short trips}}$  
 For all users, regardless of gender, customers are using CitiBikes for bike trips  $\textcolor{blue}{\text {under 20 miutes}}$ 
 ![Trip duration](https://user-images.githubusercontent.com/107505166/191400549-50eff202-70f6-401e-a6a5-48a37c65ccac.PNG)
 
-<b> 1. Gender as a factor in usage </b> 
+<b> 2. Gender as a factor in usage </b> 
 ### $\textcolor{blue}{\text{Majority of users are male subscribers}}$  
 $\textcolor{blue}{\text{ (figure a)}}$ 
-![Capture2](https://user-images.githubusercontent.com/107505166/188705533-81e92a2c-28e3-466b-ace7-c5144b521a9a.PNG)
+<img src="https://user-images.githubusercontent.com/107505166/191404225-40fefa48-899b-43c0-b6b5-a5bfe86e23fa.PNG" width="300" height="150"> 
+
+![UsersByGender](https://user-images.githubusercontent.com/107505166/191404225-40fefa48-899b-43c0-b6b5-a5bfe86e23fa.PNG)
 
 $\textcolor{blue}{\text{ (figure b)}}$ 
-![Capture3](https://user-images.githubusercontent.com/107505166/188705546-a7b27737-231a-4b54-8ff8-86fc82d1abbf.PNG)
+
 
  
 ## Summary
