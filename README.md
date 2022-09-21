@@ -12,13 +12,18 @@ For all users, regardless of gender, customers are using CitiBikes for bike trip
 ![Trip duration](https://user-images.githubusercontent.com/107505166/191400549-50eff202-70f6-401e-a6a5-48a37c65ccac.PNG)
 
 <b> 2. Gender as a factor in usage </b> 
-### $\textcolor{blue}{\text{Majority of users are male}}$  
+### $\textcolor{blue}{\text{More male customers}}$  
+Males constitute nearly $\textcolor{blue}{\text {two-thirds}}$  of all customers.  
+
 <img src="https://user-images.githubusercontent.com/107505166/191404225-40fefa48-899b-43c0-b6b5-a5bfe86e23fa.PNG" width="600" height="300">
 
-$\textcolor{blue}{\text{ (figure b)}}$ 
-<b> 3. Usage trends per day of the week </b> 
 
- ![Heatmap1](https://user-images.githubusercontent.com/107505166/191405417-0662e48c-d711-4f60-950e-b594c3c12ad0.PNG)
+<b> 3. Usage trends per time of day and day of the week </b> 
+### $\textcolor{blue}{\text{Peak usage is during typical commuting hours and on weekends}}$  
+
+![Heat map2](https://user-images.githubusercontent.com/107505166/191406526-73bdd1ec-aefe-4864-bc54-fa47a917ca1a.PNG)
+
+![Heatmap1](https://user-images.githubusercontent.com/107505166/191405865-614be008-fcb4-4469-81f6-4be929f76fb2.PNG)
 
 ## Summary
 
