@@ -35,7 +35,7 @@ This heat map visualization shows areas of concentrated bike usage by hour of da
 <b>   </b> 
 <b> 4. Customer type as factor in usage </b> 
 ### $\textcolor{blue}{\text{Subscribers rule!}}$  
-This chart showing unique CitiBike trips by gender of the customer shows that over $\textcolor{blue}{\text {eighty percent}}$ of CitiBike trips are taken by subscribers versus non-subscribing customers.
+This chart showing unique CitiBike trips by user type shows that over $\textcolor{blue}{\text {eighty percent}}$ of CitiBike trips are taken by subscribers versus non-subscribing customers.
 
 
 <img src="https://user-images.githubusercontent.com/107505166/191409125-92c87bd0-6859-48e3-accf-8d6e9d066ef7.PNG" width="600" height="300">
