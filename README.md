@@ -44,12 +44,14 @@ This heat map showing the distribution of unique bike ride by time of day, hour 
 <img src="https://user-images.githubusercontent.com/107505166/191627942-337721c6-1d3c-431d-bbdd-c152967cd601.png" width="600" height="300">
 
 
-#### Summary of findings and Recommendations for further analysis
+#### Summary of findings 
 * Analysis of NY CitiBike trip data shows heavy usage of the bike share program, and an expected distribution of bike usage that is heavier during typical commuting times and on the weekends.
 * It also shows that the trips taken are quite short - substantially under twenty minutes.  
-* Analyses of success factors for bikesharing programs show that the extent of existing bike infrastructure (bike lanes and other infrastructure), availability of transit systems for bike-to-transit links, moderate weather and moderate terrain are important factors in program success.  
+* This trip pattern data appears to fit the needs identified for a bike sharing program in Des Moines.  
+* Published analyses of success factors for bikesharing programs throughout the United States show that the extent of existing bike infrastructure (bike lanes and other infrastructure), availability of transit systems for bike-to-transit links, moderate weather and moderate terrain are important factors in program success.  
+* Des Moines has an extensive bike trail system, a successful transit system and weather similar to NY city.  
  
-$\textcolor{blue}{\text{ (Recommended for Further Analysis)}}$ 
+$\textcolor{blue}{\text{ (Recommended for Further Analysis of NY CitiBike Data set)}}$ 
 | -----------------------------------------------------------------------------|                                            
 | Add clear filter button                                                      |
 | Update javascript filter function to be case-insensitive                     | 
