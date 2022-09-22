@@ -13,7 +13,7 @@ All the visualizations for this project can be seen on Tableau Public:   https:/
 This visualization plots unique bike trips by the length of time the bike was checked out.  We can see that customers are overwhelmingly using CitiBikes for bike trips  $\textcolor{blue}{\text {under 20 minutes}}$ 
 ![Trip Duration all users](https://user-images.githubusercontent.com/107505166/191627672-d0829bd3-eb2b-41a9-8095-eb663108df86.PNG)
 
-This visualization plots unique bike trips by the length of time the bike was checked out $\textcolor{blue}{\text {and by gender. }}$   For all users, regardless of gender, customers are using CitiBikes for bike trips  $\textcolor{blue}{\text {under 20 minutes}}$  
+This visualization plots unique bike trips by the length of time the bike was checked out $\textcolor{blue}{\text {and by gender. }}$   For all users, regardless of gender, customers are using CitiBikes primarily for bike trips  $\textcolor{blue}{\text {under 20 minutes}}$  
 ![Trip duration](https://user-images.githubusercontent.com/107505166/191400549-50eff202-70f6-401e-a6a5-48a37c65ccac.PNG)
 
 
@@ -44,27 +44,28 @@ This heat map showing the distribution of unique bike ride by time of day, hour 
 <img src="https://user-images.githubusercontent.com/107505166/191627942-337721c6-1d3c-431d-bbdd-c152967cd601.png" width="600" height="300">
 
 
-#### Summary of Findings and Recommendations for further Research
+## Summary of Findings and Recommendations for further Research
 
 * Analysis of NY CitiBike trip data shows a distribution of bike trips that mimics that of motorized vehicular traffic:  CitiBike trips are most frequent during typical work/school commute times and on the weekends.
 * It also shows that the trips taken are quite short - substantially under twenty minutes.  
 * This trip pattern of short trips during high traffic activity times of the day and week shows the CitBike program successfully meeting transportation needs for many customers in a high-density urban area.   It also appears to fit the needs identified for a bike sharing program in Des Moines:  an easy and enjoyable transportation alternative for residents there.  
 
 
-Published analyses of success factors for bikesharing programs throughout the United States include these common factors:
- 1.Extent of existing bike infrastructure (bike lanes and other infrastructure)
- 2.Integration with an existing public transit systems to allow for easy bike-to-transit links
- 3. Moderate weather and moderate terrain 
-https://www.bbc.com/future/article/20210112-the-vast-bicycle-graveyards-of-china
-https://theconversation.com/heres-what-bike-sharing-programs-need-to-succeed-85969
+#### Published analyses of success factors for bikesharing programs throughout the United States include these common factors:
+ 1. Extent of existing bike infrastructure (bike lanes and other infrastructure)
+ 2. Integration with an existing public transit systems to allow for easy bike-to-transit links
+ 3.  Moderate weather and moderate terrain 
+ 
+* https://www.bbc.com/future/article/20210112-the-vast-bicycle-graveyards-of-china
+* https://theconversation.com/heres-what-bike-sharing-programs-need-to-succeed-85969
 
- Des Moines already has an extensive bike trail and path system, a successful public transit system, a flat terrain and weather similar to NY city.  Recommendations for further analysis of this data set include:
-  1. Using geographic data in the NY CitiBike data set, it may be useful to explore how the presence of bike-lane and bike-bridge infrastructure affect bike usage.   These insights might be helpful in evaluating whether Des Moines current bike trail system is ready to successfully support a bike sharing program.
+ #### Des Moines currently boasts an existing bike trail system, public transit system, a flat terrain and weather similar to NY city.  
+ ![Des Moines Bike map](https://user-images.githubusercontent.com/107505166/191652999-eb56c0fd-f4d2-4497-89f2-990d080d457c.PNG)
+![Dart](https://user-images.githubusercontent.com/107505166/191653014-2567161c-ba72-4354-bbb3-99da336deb95.PNG)
+
+ 
+ $\textcolor{blue}{\text{ (Recommendations for Further Analysis of NY CitiBike Data set)}}$
+  1. Using geographic data in the NY CitiBike data set, it may be useful to explore how the presence of bike-lane and bike-bridge infrastructure affect bike usage.   These insights may be helpful in evaluating whether Des Moines current bike trail system is ready to successfully support a bike sharing program.
   2. As linkage between existing mass public transit systems and bike share programs appears to be an important factor in the success of bike sharing programs, it will be important to explore the NY CitiBike data set and investigate how many bike trips begin and end near mass public transit entry and exit points.
   3. Des Moines has similar weather to NY City except that it is slightly colder in the winter, and receives moderately more snowfall.   It will be important to investigate patterns of CitiBike usage during winter months in New York to better understand how winter weather conditions affect trip usage and to gain insights into how winter weather might affect bike share program bike usage in Des Moines in winter months.
  
-$\textcolor{blue}{\text{ (Recommended for Further Analysis of NY CitiBike Data set)}}$ 
-| -----------------------------------------------------------------------------|                                            
-| Further analysis of geographical data in the data set re: location of bike lanes and public transit stops                                                      |
-| Further analysis of date/time data in the data set linked with weather analysis          | 
-
