@@ -59,8 +59,11 @@ This heat map showing the distribution of unique bike ride by time of day, hour 
 * https://www.bbc.com/future/article/20210112-the-vast-bicycle-graveyards-of-china
 * https://theconversation.com/heres-what-bike-sharing-programs-need-to-succeed-85969
 
+---
 
-  ### Des Moines currently boasts an existing bike trail system, a public transit system and a flat terrain.  The weather is similar to that of New York City. |
+  ### Des Moines currently boasts an existing bike trail system, a public transit system and a flat terrain.  The weather is similar to that of New York City. 
+  
+  ---
 
  $\textcolor{green}{\text{ Des Moines Bike Trail System}}$
  ![Des Moines Bike map](https://user-images.githubusercontent.com/107505166/191652999-eb56c0fd-f4d2-4497-89f2-990d080d457c.PNG)
@@ -72,8 +75,10 @@ This heat map showing the distribution of unique bike ride by time of day, hour 
  
 <img src="https://user-images.githubusercontent.com/107505166/191654357-051ca634-1d09-40fa-b341-b34ab2fffdb4.PNG" width="600" height="400">
 
- ### Recommendations for Further Analysis of NY CitiBike Data set
-  1. Using geographic data in the NY CitiBike data set, it is recommended to explore how the presence of bike-lane and bike-bridge infrastructure affect bike usage.   These insights may be helpful in evaluating whether Des Moines current bike trail system is ready to successfully support a bike sharing program.
-  2. As linkage between existing mass public transit systems and bike share programs appears to be an important factor in the success of bike sharing programs, it will be important to explore the NY CitiBike data set and investigate how many bike trips begin and end near mass public transit entry and exit points.
-  3. Des Moines has similar weather to NY City except that it is slightly colder in the winter, and receives moderately more snowfall.   It will be important to investigate patterns of CitiBike usage during winter months in New York to better understand how winter weather conditions affect trip usage and to gain insights into how winter weather might affect bike share program bike usage in Des Moines in winter months.
+---
+
+### $\textcolor{blue}{\text{Recommendations for Further Analysis of NY CitiBike Data set}}$  
+ * Using geographic data in the NY CitiBike data set, it is recommended to explore how the presence of bike-lane and bike-bridge infrastructure affect bike usage.   These insights may be helpful in evaluating whether Des Moines current bike trail system is ready to successfully support a bike sharing program.
+ * As linkage between existing mass public transit systems and bike share programs appears to be an important factor in the success of bike sharing programs, it will be important to explore the NY CitiBike data set and investigate how many bike trips begin and end near mass public transit entry and exit points.
+ *  Des Moines has similar weather to NY City except that it is slightly colder in the winter, and receives moderately more snowfall.   It will be important to investigate patterns of CitiBike usage during winter months in New York to better understand how winter weather conditions affect trip usage and to gain insights into how winter weather might affect bike share program bike usage in Des Moines in winter months.
  
